@@ -6,4 +6,3 @@ A simple text-based calculator that performs basic operations using Python's lam
 ## Features
 - Uses lambda functions for streamlined operations.
 - Supports continuous calculations without restarting.
-- Handles division by zero with a simple error message.
